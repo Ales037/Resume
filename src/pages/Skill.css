@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@400;600&display=swap');
+
+.card-posiction{
+  
+    position: relative;
+    margin-top:6.25rem;
+    display: flex;
+    justify-content: center;
+}
+
+.card-skill{
+    
+    
+    width: 93.75rem;
+    border: 0px !important;
+    border-radius: 25px !important;
+    background-color:#181a1b!important;
+   
+}
+
+.icon-size{
+
+    font-size:6.875rem;
+
+}
+
+h4{
+      
+    font-family: 'Prompt', sans-serif;
+    color:#e8e6e3;
+}
+
+.card-header{
+    
+    font-family: 'Prompt', sans-serif;
+    font-size:1.563rem;
+    font-weight: bold;
+    color:#e8e6e3;
+}
+
+p{
+    font-family: 'Prompt', sans-serif;
+    color:#e8e6e3;
+}

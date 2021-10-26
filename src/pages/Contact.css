@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@400;600&display=swap');
+
+.card-posiction{
+  
+    position: relative;
+    margin-top:6.25rem;
+    display: flex;
+    justify-content: center;
+}
+
+.card-contact{
+
+    background: url("../images/BG3.jpg") no-repeat;
+    width: 100rem;
+    height: 50rem;
+    border: 0px !important;
+    border-radius: 25px !important;
+  
+}
+
+.card-body-con{
+
+    text-align: center;
+    font-size:1.188rem;
+    font-weight: bold;
+}
+
+.text-con{
+    
+    font-family: 'Prompt', sans-serif;
+    font-weight: bold;
+    font-size:1.875rem;
+    color:#000;
+}
+
+.icon-size-con{
+
+    font-size:3.125rem; 
+}
+
+.img-size{
+
+    display: block;
+    width: 12.5rem;
+    height: 12.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.img-size img{
+    
+    width: 100%;
+    height: 100%;
+}
+
+
